@@ -67,7 +67,7 @@ docker run -p 8501:8501 --env-file config.env agentic-macro-fincast:test
 
 ## Contributors
 
-- Chuan Bin Phoe
+- [Chuan Bin Phoe](https://www.linkedin.com/in/chuanbinphoe/)
 - Neaton Ang
 
 ## Langgraph pipeline
