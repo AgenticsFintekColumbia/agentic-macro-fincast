@@ -68,7 +68,7 @@ docker run -p 8501:8501 --env-file config.env agentic-macro-fincast:test
 ## Contributors
 
 - [Chuan Bin Phoe](https://www.linkedin.com/in/chuanbinphoe/)
-- Neaton Ang
+- [Neaton Ang](https://www.linkedin.com/in/neatonang/)
 
 ## Langgraph pipeline
 Framework can be extended:
