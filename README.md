@@ -25,6 +25,7 @@ https://github.com/user-attachments/assets/898d0a38-6c6f-48e5-ac0e-ba22cf5c8c83
 -   `RSS_FEEDS`: Comma-separated RSS feed URLs
 -   `FINBERT_MODEL`: FinBERT model id (default: `ProsusAI/finbert`)
 -   `DEBERTA_MODEL`: DeBERTa model id (default: `MoritzLaurer/mDeBERTa-v3-base-mnli-xnli`)
+-   `HF_TOKEN`: API Key for HuggingFace
 
 ## Local Setup
 
