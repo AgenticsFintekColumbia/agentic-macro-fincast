@@ -8,6 +8,8 @@ Agentic pipeline for extracting factors and forecasting next-day returns from ma
 https://github.com/user-attachments/assets/898d0a38-6c6f-48e5-ac0e-ba22cf5c8c83
 
 
+### &rarr; [Presentation Slides](Final%20Presentation.pdf)
+
 ## Deployment Information
 
 -   **Project Slug:** `agentic-macro-fincast`
