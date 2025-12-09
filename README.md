@@ -4,11 +4,16 @@
 
 Agentic pipeline for extracting factors and forecasting next-day returns from macroeconomic and financial news (Bloomberg). The project combines streaming RSS ingestion, Pydantic data models, FinBERT/DeBERTa for classification and sentiment, and LangGraph + LLMs for summarization and prediction orchestration.
 
-
+### Demo
 https://github.com/user-attachments/assets/898d0a38-6c6f-48e5-ac0e-ba22cf5c8c83
 
+### Presentation
+#### [Presentation Video](https://youtu.be/OYCg4yQ-jno) (in https://youtu.be/OYCg4yQ-jno)
 
-### &rarr; [Presentation Slides](Final%20Presentation.pdf)
+#### [Presentation Slides](docs/final_presentation.pdf) (in docs/final_presentation.pdf)
+
+### Paper writeup
+#### [Paper](docs/final_paper_v3.pdf) (in docs/final_paper_v3.pdf)
 
 ## Deployment Information
 
