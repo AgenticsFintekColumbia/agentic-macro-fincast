@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/898d0a38-6c6f-48e5-ac0e-ba22cf5c8c83
 #### [Presentation Slides](docs/final_presentation.pdf) (in docs/final_presentation.pdf)
 
 ### Paper writeup
-#### [Paper](docs/final_paper_v5.pdf) (in docs/final_paper_v5.pdf)
+#### [Paper](docs/final_paper_v6.pdf) (in docs/final_paper_v6.pdf)
 
 ### AWS Deployment
 #### [Deployed Instance](https://d28ay7eykuuini.cloudfront.net/agentic-macro-fincast/) (in https://d28ay7eykuuini.cloudfront.net/agentic-macro-fincast/) 
